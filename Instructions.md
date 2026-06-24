@@ -21,3 +21,7 @@ SUPABASE_KEY= project settings > api keys > Legacy anon, service_role API keys
 
 python -m uvicorn app.main:app --reload
 http://127.0.0.1:8000/docs (docs)
+
+### Purpose
+
+This repository was created as a reusable backend template while learning production-oriented FastAPI development. It serves as the starting point for future projects and will continue to evolve as new features and best practices are added.
